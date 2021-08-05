@@ -4,9 +4,10 @@
  ------------------------------------------------------------------
  
 ### GitHub Stats 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanharfiansyah&theme=highcontrast)](https://github.com/irfanharfiansyah/github-readme-stats)
-        ![irfanharfiansyah GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanharfiansyah&theme=highcontrast&show_icons=true) 
+ ![irfanharfiansyah GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanharfiansyah&theme=highcontrast&show_icons=true) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanharfiansyah&theme=highcontrast)](https://github.com/irfanharfiansyah/github-readme-stats)
+       
 
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------- 
