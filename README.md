@@ -1,9 +1,9 @@
 ### ***Hi Folks***! <img src="https://user-images.githubusercontent.com/71871211/128218014-e4ee2b40-54dd-4ccd-99eb-2439f2f7adf7.gif" width="40" height="35"/>
 
 ### Connect with me :
-![](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Firfanharfiansyah%2F)
-![](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Firfan-harfiansyah)
-![](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FirfanHarfians)
+[<img align="left" alt="Twitter"  src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FirfanHarfians" />][instagram]
+[<img align="left" alt="Gatsby"  src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Firfan-harfiansyah" />][linkedin]
+[<img align="left" alt="Gatsby"  src="https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Firfanharfiansyah%2F" />][linkedin]
  <br/>
  ### 🔧Languages and Tools:
  
