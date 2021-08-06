@@ -1,13 +1,11 @@
 ### ***Hi Folks***! <img src="https://user-images.githubusercontent.com/71871211/128218014-e4ee2b40-54dd-4ccd-99eb-2439f2f7adf7.gif" width="40" height="35"/>
 
 ### Connect with me :
-
-[<img align="left" alt="irfanharfians | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="irfanharfiansyah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="irfanharfiansyah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Firfanharfiansyah%2F)
+![](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Firfan-harfiansyah)
+![](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FirfanHarfians)
  <br/>
- 
- ### Languages and Tools:
+ ### 🔧Languages and Tools:
  
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
@@ -19,7 +17,7 @@
 
 ___________________________________________
 
-### GitHub Stats 📊
+### 📊GitHub Stats 
 
 ![irfanharfiansyah GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanharfiansyah&theme=highcontrast&show_icons=true)
 
