@@ -3,11 +3,11 @@
 ### Connect with me :
 [<img align="left" alt="Twitter"  src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FirfanHarfians" />][instagram]
 [<img align="left" alt="Gatsby"  src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Firfan-harfiansyah" />][linkedin]
-[<img align="left" alt="Gatsby"  src="https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Firfanharfiansyah%2F" />][linkedin]
+[<img align="left" alt="Gatsby"  src="https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Firfanharfiansyah%2F" />][linkedin]![animation_500_kv8i962g](https://user-images.githubusercontent.com/71871211/139355566-2e450aa3-388c-4f6e-b211-d769bc7a10aa.gif)
  <br/>
 
     
-![animation_500_kv8i962g](https://user-images.githubusercontent.com/71871211/139355566-2e450aa3-388c-4f6e-b211-d769bc7a10aa.gif)
+
 
   <br/>
  
